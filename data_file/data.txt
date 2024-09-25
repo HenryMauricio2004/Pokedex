@@ -1,0 +1,36 @@
+0001/Bulbasaur/Planta,Veneno/Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo.
+0002/Ivysaur/Planta,Veneno/Cuanta más luz solar recibe, más aumenta su fuerza y más se desarrolla el capullo que tiene en el lomo.
+0003/Venusaur/Planta,Veneno/Puede convertir la luz del sol en energía. Por esa razón, es más poderoso en verano.
+
+0004/Charmander/Fuego/La llama de su cola indica su fuerza vital. Si está débil, la llama arderá más tenue.
+0005/Charmeleon/Fuego/Al agitar su ardiente cola, eleva poco a poco la temperatura a su alrededor para sofocar a sus rivales.
+0006/Charizard/Fuego,Volador/Cuando se enfurece de verdad, la llama de la punta de su cola se vuelve de color azul claro.
+
+0007/Squirle/Agua/Tras nacer, se le hincha el lomo y se le forma un caparazón. Escupe poderosa espuma por la boca.
+0008/Wartortle/Agua/Tiene una cola larga y peluda que simboliza la longevidad y lo hace popular entre los mayores.
+0009/Blastoise/Agua/Aumenta de peso deliberadamente para contrarrestar la fuerza de los chorros de agua que dispara.
+
+0010/Caterpie/Bicho/Para protegerse, despide un hedor horrible por las antenas con el que repele a sus enemigos.
+0011/Metapod/Bicho/Como en este estado solo puede endurecer su coraza, permanece inmóvil a la espera de evolucionar.
+0012/Butterfree/Bicho,Volador/Adora el néctar de las flores. Una pequeña cantidad de polen le basta para localizar prados floridos.
+
+0013/Weedle/Bicho,Veneno/El aguijón de la cabeza es muy puntiagudo. Se alimenta de hojas oculto en la espesura de bosques y praderas.
+0014/Kakuna/Bicho,Veneno/Aunque es casi incapaz de moverse, en caso de sentirse amenazado puede envenenar a los enemigos con su aguijón.
+0015/Beedrill/Bicho,Veneno/Tiene tres aguijones venenosos, dos en las patas anteriores y uno en la parte baja del abdomen, con los que ataca a sus enemigos una y otra vez.
+
+0016/Pidgey/Normal,Volador/Su docilidad es tal que suelen defenderse levantando arena en lugar de contraatacar.
+0017/Pidgeotto/Normal,Volador/Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas.
+0018/Pidgeot/Normal,Volador/Este Pokémon vuela a una velocidad de 2 mach en busca de presas. Sus grandes garras son armas muy peligrosas.
+
+0019/Rattata/Normal/Es propenso a hincar los incisivos en cualquier cosa que se le ponga por delante. Si se ve alguno, seguramente haya cuarenta cerca.
+0020/Raticate/Normal/Gracias a las pequeñas membranas de las patas traseras, puede nadar por los ríos para capturar presas.
+
+
+0025/Pikachu/Electrico/Cuando se enfada, este Pokémon descarga la energía que almacena en el interior de las bolsas de las mejillas.
+0026/Raichu/Electrico/Su cola actúa como toma de tierra y descarga electricidad al suelo, lo que le protege de los calambrazos.
+
+0021/Spearow/Normal,Volador/A la hora de proteger su territorio, compensa su incapacidad para volar a gran altura con una increíble velocidad.
+0022/Fearow/Normal,Volador/Este Pokémon ha existido desde tiempos remotos. Al menor atisbo de peligro, alza el vuelo y huye.
+
+0023/Ekans/Veneno/Puede desencajar la mandíbula libremente para engullir grandes presas, aunque esto le dificulte el movimiento por pesar demasiado.
+0024/Arbok/Veneno/El dibujo que tiene en el vientre parece una cara terrorífica. Los rivales más débiles salen huyendo nada más verlo.
